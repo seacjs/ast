@@ -1,0 +1,21 @@
+{
+    "name": "seacjs/yii2-array-settings-storage",
+    "description": "Save and Load settings in file, for then load in config",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "seacjs",
+            "email": "sea-cjs@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "seacjs\\ast\\": ""
+        }
+    }
+}
